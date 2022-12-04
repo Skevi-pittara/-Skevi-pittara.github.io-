@@ -1,5 +1,27 @@
-.photo1{height: 500px;
-width: 400px; border: 10px solid black;}
-h1 {color: purple;}
-h2 {color: blue;}
-p {background-color: lightblue;}
+.photo1{
+	height: auto;
+	width: 100%; 
+	border: 7px solid #b3baff;
+}
+
+h1 {
+	color: purple; 
+	background-color: #c0c0c0;
+}
+h2 {
+	color: blue; 
+	background-color: lightblue;
+}
+p {
+	background-color: #fadadd; 
+	color: #ff6666;
+}
+.photo2{
+	border: 6px solid#343434
+	height: auto;
+	width: 100%}
+.photo3{height: 400px; border: 300px}
+.photo4{
+	height: 300px; 
+	width: 230px;
+}
